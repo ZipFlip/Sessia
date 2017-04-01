@@ -1,0 +1,17 @@
+C:\Users\touch\Desktop\WindowsService-master\Service\bin\Debug\Service.exe.config
+C:\Users\touch\Desktop\WindowsService-master\Service\bin\Debug\Service.exe
+C:\Users\touch\Desktop\WindowsService-master\Service\bin\Debug\Service.pdb
+C:\Users\touch\Desktop\WindowsService-master\Service\bin\Debug\Logical.dll
+C:\Users\touch\Desktop\WindowsService-master\Service\bin\Debug\mscorlib.dll
+C:\Users\touch\Desktop\WindowsService-master\Service\bin\Debug\Logical.pdb
+C:\Users\touch\Desktop\WindowsService-master\Service\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\touch\Desktop\WindowsService-master\Service\bin\Debug\normidna.nlp
+C:\Users\touch\Desktop\WindowsService-master\Service\bin\Debug\normnfc.nlp
+C:\Users\touch\Desktop\WindowsService-master\Service\bin\Debug\normnfd.nlp
+C:\Users\touch\Desktop\WindowsService-master\Service\bin\Debug\normnfkc.nlp
+C:\Users\touch\Desktop\WindowsService-master\Service\bin\Debug\normnfkd.nlp
+C:\Users\touch\Desktop\WindowsService-master\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\touch\Desktop\WindowsService-master\Service\obj\Debug\Service.ProjectInstaller.resources
+C:\Users\touch\Desktop\WindowsService-master\Service\obj\Debug\Service.csproj.GenerateResource.Cache
+C:\Users\touch\Desktop\WindowsService-master\Service\obj\Debug\Service.exe
+C:\Users\touch\Desktop\WindowsService-master\Service\obj\Debug\Service.pdb

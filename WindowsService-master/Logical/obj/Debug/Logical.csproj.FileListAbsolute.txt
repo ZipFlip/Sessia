@@ -1,0 +1,5 @@
+C:\Users\touch\Desktop\WindowsService-master\Logical\bin\Debug\Logical.dll
+C:\Users\touch\Desktop\WindowsService-master\Logical\bin\Debug\Logical.pdb
+C:\Users\touch\Desktop\WindowsService-master\Logical\obj\Debug\Logical.csprojResolveAssemblyReference.cache
+C:\Users\touch\Desktop\WindowsService-master\Logical\obj\Debug\Logical.dll
+C:\Users\touch\Desktop\WindowsService-master\Logical\obj\Debug\Logical.pdb
